@@ -10,7 +10,7 @@
 
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
- <title>Sample Webpage</title>
+ <title>JhanRainaldVOreñada's WebPage</title>
 
  <style>
 
@@ -90,7 +90,7 @@
 
  <header>
 
- <h1>Welcome to My Sample Webpage</h1>
+ <h1>Welcome to My Raine's Webpage</h1>
 
  </header>
 
