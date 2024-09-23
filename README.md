@@ -22,7 +22,7 @@
 
  margin: 0;
 
- padding: 20px;
+ padding: 20;
 
  color: #333;
 
@@ -34,7 +34,7 @@
 
  color: white;
 
- padding: 10px 0;
+ padding: 10 0;
 
  text-align: center;
 
@@ -42,7 +42,7 @@
 
  nav {
 
- margin: 20px 0;
+ margin: 20 0;
 
  text-align: center;
 
@@ -54,7 +54,7 @@
 
  color: #4CAF50;
 
- margin: 0 15px;
+ margin: 0 15;
 
  font-weight: bold;
 
@@ -62,21 +62,21 @@
 
  main {
 
- padding: 20px;
+ padding: 20;
 
  background-color: #fff;
 
- border-radius: 8px;
+ border-radius: 8;
 
- box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ box-shadow: 0 0 10(0, 0, 0, 0.1);
 
  }
 
  footer {
 
- text-align: center; margin-top: 20px;
+ text-align: center; margin-top: 20;
 
- font-size: 0.8em;
+ font-size: 0.8;
 
  color: #777;
 
