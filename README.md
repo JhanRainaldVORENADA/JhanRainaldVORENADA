@@ -1,108 +1,80 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #D3D3D3; /* Light Gray background */
+            margin: 0;
+            padding: 20px;
+            color: #0000FF; /* Blue text */
+        }
 
- <meta charset="UTF-8">
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
 
- <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        nav {
+            margin: 20px 0;
+            text-align: center;
+        }
 
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        nav a {
+            text-decoration: none;
+            color: #4CAF50;
+            margin: 0 15px;
+            font-weight: bold;
+        }
 
- <title>JhanRainaldVOreñada's WebPage</title>
+        main {
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
 
- <style>
-
- body {
-
- font-family: Arial, sans-serif;
-
- background-color: #f4f4f9;
-
- margin: 0;
-
- padding: 20;
-
- color: #333;
-
- }
-
- header {
-
- background-color: #4CAF50;
-
- color: white;
-
- padding: 10 0;
-
- text-align: center;
-
- }
-
- nav {
-
- margin: 20 0;
-
- text-align: center;
-
- }
-
- nav a {
-
- text-decoration: none;
-
- color: #4CAF50;
-
- margin: 0 15;
-
- font-weight: bold;
-
- }
-
- main {
-
- padding: 20;
-
- background-color: #fff;
-
- border-radius: 8;
-
- box-shadow: 0 0 10(0, 0, 0, 0.1);
-
- }
-
- footer {
-
- text-align: center; margin-top: 20;
-
- font-size: 0.8;
-
- color: #777;
-
- }
-
- </style>
-
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.8em;
+            color: #777;
+        }
+    </style>
 </head>
-
 <body>
 
- <header>
+    <header>
+        <h1>Welcome to Jhan Rainald V Oreñada’s Sample Webpage</h1>
+    </header>
 
- <h1>Welcome to My Raine's Webpage</h1>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
 
- </header>
+    <main>
+        <h2>About This Page</h2>
+        <p>This is a simple HTML webpage created by Oreñada for learning how to publish websites. You can use this page to practice uploading and publishing your own content online.</p>
+        
+        <h3>Features</h3>
+        <ul>
+            <li>Easy to edit and customize.</li>
+            <li>Basic styling with CSS.</li>
+            <li>Responsive layout that looks good on all devices.</li>
+        </ul>
+    </main>
 
- <nav>
+    <footer>
+        &copy; 2024 My Sample Webpage. All rights reserved.
+    </footer>
 
- <a href="#">Home</a>
-
- <a href="#">About</a>
-
- <a href="#">Contact</a>
-
- </nav>
-
- <main>
-
+</body>
+</html>
