@@ -106,36 +106,3 @@
 
  <main>
 
- <h2>About This Page</h2>
-
- <p>This is a simple HTML webpage created as a sample for learning how to publish 
-
-websites. You can use this page to practice uploading and publishing your own content 
-
-online.</p>
-
- 
-
- <h3>Features</h3>
-
- <ul>
-
- <li>Easy to edit and customize.</li>
-
- <li>Basic styling with CSS.</li>
-
- <li>Responsive layout that looks good on all devices.</li>
-
- </ul>
-
- </main>
-
- <footer>
-
- &copy; 2024 My Sample Webpage. All rights reserved.
-
- </footer>
-
-</body>
-
-</html>
